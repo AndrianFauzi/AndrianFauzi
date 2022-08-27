@@ -18,7 +18,7 @@ Hello, my name is Andrian Fauzi and I am a master's student at [Binus University
 
 - 🔭 currently i'm looking for a job as full stack javascript
 - 💬 Brainstorm with me over tech, algorithms, career, and anime 
-- 📫 How to reach me: andrianfauzi999@gmail.com
+- 📫 How to reach me: andrianfauzi1995@gmail.com
 - 😄 Pronouns: Programmer/He/Him
 - ⚡ Fun fact: LinkedIn [Andrian Fauzi](https://www.linkedin.com/in/andrian-fauzi/) 
 - 📝 [Resume]()
