@@ -20,7 +20,7 @@ Hello, my name is Andrian Fauzi and I am a master's student at [Binus University
 - 💬 Brainstorm with me over tech, algorithms, career, and anime 
 - 📫 How to reach me: andrianfauzi1995@gmail.com
 - 😄 Pronouns: Programmer/He/Him
-- ⚡ Fun fact: LinkedIn [Andrian Fauzi](https://www.linkedin.com/in/andrian-fauzi/) 
+- ⚡ LinkedIn: [Andrian Fauzi](https://www.linkedin.com/in/andrian-fauzi/) 
 - 📝 [Resume]()
 
 **Languages and Tools:** 
