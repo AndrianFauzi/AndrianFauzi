@@ -23,6 +23,7 @@ Hello, my name is Andrian Fauzi and I am a master's student at [Binus University
 - ⚡ LinkedIn: [Andrian Fauzi](https://www.linkedin.com/in/andrian-fauzi/) 
 - 📝 [Resume]()
 
+<!--
 **Languages and Tools:** 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
@@ -33,6 +34,7 @@ Hello, my name is Andrian Fauzi and I am a master's student at [Binus University
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+-->
 
 ![Andrian's Github Stats](https://github-readme-stats.vercel.app/api?username=AndrianFauzi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrianFauzi&hide=TeX&layout=compact)
