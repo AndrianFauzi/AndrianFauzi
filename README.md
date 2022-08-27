@@ -21,7 +21,7 @@ Hello, my name is Andrian Fauzi and I am a master's student at [Binus University
 - 📫 How to reach me: andrianfauzi1995@gmail.com
 - 😄 Pronouns: Programmer/He/Him
 - ⚡ LinkedIn: [Andrian Fauzi](https://www.linkedin.com/in/andrian-fauzi/) 
-- 📝 [Resume]()
+- 📝 [Resume](https://drive.google.com/file/d/1O0eL4hX5-Lk3UblKU3a-kCZEBO-8mfow/view?usp=sharing)
 
 <!--
 **Languages and Tools:** 
