@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hello, my name is Andrian Fauzi and I am a master's student at [Binus University Online Learning](https://onlinelearning.binus.ac.id/) majoring in Computer Science.
 
-- 🔭 currently i'm looking for a job as full stack developer
+- 🔭 currently i work in [prospero solutions](https://prosperosolutions.co.id/) as full stack javascript
 - 💬 Brainstorm with me over tech, algorithms, career, and anime 
 - 📫 How to reach me: andrianfauzi1995@gmail.com
 - 😄 Pronouns: Programmer/He/Him
