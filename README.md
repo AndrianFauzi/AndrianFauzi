@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is Andrian Fauzi and I am a master's student at [Binus University Online Learning](https://onlinelearning.binus.ac.id/) majoring in Computer Science.
+Hello, my name is Andrian Fauzi and I am a student at [Binus University Online Learning](https://onlinelearning.binus.ac.id/) majoring in Computer Science.
 
 - 🔭 currently i work in [prospero solutions](https://prosperosolutions.co.id/) as full stack developer
 - 💬 Brainstorm with me over tech, algorithms, career, and anime 
