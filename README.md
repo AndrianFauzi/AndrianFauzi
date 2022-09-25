@@ -18,7 +18,7 @@ Hello, my name is Andrian Fauzi and I am a student at [Binus University Online L
 
 - 🔭 currently i work in [prospero solutions](https://prosperosolutions.co.id/) as full stack developer
 - 💬 Brainstorm with me over tech, algorithms, career, and anime 
-- 📫 How to reach me: andrianfauzi1995@gmail.com
+- 📫 How to reach me: andrianfauzi36@gmail.com
 - 😄 Pronouns: Programmer/He/Him
 - ⚡ LinkedIn: [Andrian Fauzi](https://www.linkedin.com/in/andrian-fauzi/) 
 - 📝 [Resume](https://drive.google.com/file/d/1O0eL4hX5-Lk3UblKU3a-kCZEBO-8mfow/view?usp=sharing)
