@@ -36,5 +36,4 @@ Hello, my name is Andrian Fauzi and I am a student at [Binus University Online L
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 -->
 
-![Andrian's Github Stats](https://github-readme-stats.vercel.app/api?username=AndrianFauzi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrianFauzi&hide=TeX&layout=compact)
