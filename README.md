@@ -22,7 +22,7 @@ Hello, my name is Andrian Fauzi and I am a student at [Binus University Online L
 - 😄 Pronouns: Programmer/He/Him
 - ⚡ LinkedIn: [Andrian Fauzi](https://www.linkedin.com/in/andrian-fauzi/) 
 
-<!--
+
 **Languages and Tools:** 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
@@ -33,6 +33,6 @@ Hello, my name is Andrian Fauzi and I am a student at [Binus University Online L
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
--->
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrianFauzi&hide=TeX&layout=compact)
