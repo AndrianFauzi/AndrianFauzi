@@ -36,4 +36,4 @@ Hello, my name is Andrian Fauzi and I am a student at [Binus University Online L
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrianFauzi&hide=TeX&layout=compact)
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=AndrianFauzi)](https://github.com/deepajarout) 
+<!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=AndrianFauzi)](https://github.com/deepajarout) -->
