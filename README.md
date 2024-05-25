@@ -39,6 +39,7 @@ Hello, my name is Andrian Fauzi and I am a student at [Binus University Online L
 ![MySQL](https://img.shields.io/badge/logo-mysql-blue?logo=mysql)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/logo-git-blue?logo=git)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/logo-github-blue?logo=github)&nbsp;&nbsp;
+![Laravel](https://img.shields.io/badge/logo-laravel-blue?logo=laravel)&nbsp;&nbsp;
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrianFauzi&hide=TeX&layout=compact)
