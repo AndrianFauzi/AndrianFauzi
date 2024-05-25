@@ -30,6 +30,7 @@ Hello, my name is Andrian Fauzi and I am a student at [Binus University Online L
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/logo-go-blue?logo=go)&nbsp;&nbsp;
 ![Solidity](https://img.shields.io/badge/logo-solidity-blue?logo=solidity)&nbsp;&nbsp;
+![Next Js](https://img.shields.io/badge/logo-next.js-blue?logo=next.js)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
