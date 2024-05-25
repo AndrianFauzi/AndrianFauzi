@@ -34,6 +34,7 @@ Hello, my name is Andrian Fauzi and I am a student at [Binus University Online L
 ![Vue Js](https://img.shields.io/badge/logo-vue.js-blue?logo=vue.js)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/logo-react-blue?logo=react)&nbsp;&nbsp;
 ![Angular](https://img.shields.io/badge/logo-angular-blue?logo=angular)&nbsp;&nbsp;
+![EJS](https://img.shields.io/badge/logo-ejs-blue?logo=ejs)&nbsp;&nbsp;
 ![PostgreSql](https://img.shields.io/badge/logo-postgresql-blue?logo=postgresql)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/logo-mysql-blue?logo=mysql)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/logo-git-blue?logo=git)&nbsp;&nbsp;
