@@ -25,7 +25,7 @@ Hello, my name is Andrian Fauzi and I am a student at [Binus University Online L
 
 **Languages and Tools:** 
 
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/logo-go-blue?logo=go)&nbsp;&nbsp;
