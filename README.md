@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hello, my name is Andrian Fauzi and I am a student at [Binus University Online Learning](https://onlinelearning.binus.ac.id/) majoring in Computer Science.
 
-- 🔭 currently i work in [migo](https://migo.io/) as full stack developer consultant
+- 🔭 currently i work in [Bitwyre](https://bitwyre.id/) as frontend engineer
 - 💬 Brainstorm with me over tech, algorithms, career, and anime 
 - 📫 How to reach me: andrianfauzi36@gmail.com
 - 😄 Pronouns: Programmer/He/Him
