@@ -14,13 +14,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello, my name is Andrian Fauzi and I am a student at [Binus University Online Learning](https://onlinelearning.binus.ac.id/) majoring in Computer Science.
+# 👋 Hi, I'm Andrian Fauzi
 
-- 🔭 currently i work in [Bitwyre](https://bitwyre.id/) as frontend engineer
-- 💬 Brainstorm with me over tech, algorithms, career, and anime 
-- 📫 How to reach me: andrianfauzi36@gmail.com
-- 😄 Pronouns: Programmer/He/Him
-- ⚡ LinkedIn: [Andrian Fauzi](https://www.linkedin.com/in/andrian-fauzi/) 
+Founder of **Varia Trade Indonesia**, a company dedicated to driving innovation in agriculture and commodity trade.  
+Currently pursuing a degree in Computer Science at [Binus University Online Learning](https://onlinelearning.binus.ac.id/)
+
+---
+
+### 🚀 About Me
+
+With a background in tech and a strong entrepreneurial spirit, I’m passionate about building solutions that bridge traditional industries with modern technology. Through **Varia Trade Indonesia**, I aim to empower farmers, traders, and producers by streamlining agricultural trade and logistics.
+
+---
+
+### 💼 Roles & Projects
+
+- 👨‍💻 **Senior Frontend Engineer** at Bitwyre – crafting high-performance trading interfaces.
+- 👨‍💻 **Software Engineer** at **Digital Daya Teknologi** – Building high-performance fraud detection systems to enhance security and trust across digital platforms.
+- 🧩 **Technical Solution Specialist** at **Gema Utama Cipta Innovasi** – Designing and implementing tailored technology solutions to meet client needs across various industries.
+- 🔗 **Blockchain Developer** at **Finxpert** – Building decentralized applications and integrating blockchain-based systems to support innovation and transparency.
+- 🌾 **Founder** of Varia Trade Indonesia – transforming the agricultural supply chain with data and tech.
+- 📈 Tech enthusiast with interests in fintech, blockchain, and agritech solutions.
+
+---
+
+### 🤝 Let’s Connect
+
+- 📧 Email: [andrianfauzi36@gmail.com](mailto:andrianfauzi36@gmail.com)  
+- 🔗 LinkedIn: [Andrian Fauzi](https://www.linkedin.com/in/andrian-fauzi/)  
+- 💬 Open to collaborations, ideas, and discussions about startups, tech, and innovation.
+
+---
+
+### ⚡ Quick Facts
+
+- 🎓 Studying Computer Science (Online) @ BINUS  
+- 🧠 Loves deep talks on algorithms, architecture, and anime  
+- 🌱 Currently exploring product development for rural communities  
+- 😄 Pronouns: Programmer / He / Him
+
+---
+
 
 
 **Languages and Tools:** 
