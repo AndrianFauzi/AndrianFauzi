@@ -37,7 +37,7 @@ With a background in tech and a strong entrepreneurial spirit, I’m passionate 
 - 👨‍💻 **Software Engineer** at **Digital Daya Teknologi** – Building high-performance fraud detection systems to enhance security and trust across digital platforms.
 - 🧩 **Technical Solution Specialist** at **Gema Utama Cipta Innovasi** – Designing and implementing tailored technology solutions to meet client needs across various industries.
 - 🔗 **Blockchain Developer** at **Finxpert** – Building decentralized applications and integrating blockchain-based systems to support innovation and transparency.
-- 🌾 **Founder** of Varia Trade Indonesia – transforming the agricultural supply chain with data and tech.
+- 🌾 **Part** of Varia Trade Indonesia – transforming the agricultural supply chain with data and tech.
 - 📈 Tech enthusiast with interests in fintech, blockchain, and agritech solutions.
 
 ---
