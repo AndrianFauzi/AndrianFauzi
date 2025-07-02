@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/AndrianFauzi/AndrianFauzi/blob/main/octocat-1747059894362.png" alt="header"/>
 </div> -->
 
-Founder of **Varia Trade Indonesia**, a company dedicated to driving innovation in agriculture and commodity trade.  
+Part of **Varia Trade Indonesia**, a company dedicated to driving innovation in agriculture and commodity trade.  
 Currently pursuing a degree in Computer Science at [Binus University Online Learning](https://onlinelearning.binus.ac.id/)
 
 ---
