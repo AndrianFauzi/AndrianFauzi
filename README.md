@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi, I'm Andrian Fauzi
+# Hi, I'm Andrian Fauzi
 
 <!-- <div align="center">
   <img src="https://github.com/AndrianFauzi/AndrianFauzi/blob/main/octocat-1747059894362.png" alt="header"/>
 </div> -->
 
 Part of **Varia Trade Indonesia**, a company dedicated to driving innovation in agriculture and commodity trade.  
-Currently pursuing a degree in Computer Science at [Binus University Online Learning](https://onlinelearning.binus.ac.id/)
 
 ---
 
@@ -33,6 +32,8 @@ With a background in tech and a strong entrepreneurial spirit, I’m passionate 
 
 ### 💼 Roles & Projects
 
+- 👨‍💻 **Engineering Manager** at Biota – Building high-performance smart home application.
+- 👨‍💻 **Senior Software Engineer** at Angsana Technology – Building high-performance b2b SaaS for bunkering maritime singapore.
 - 👨‍💻 **Senior Frontend Engineer** at Bitwyre – crafting high-performance trading interfaces.
 - 👨‍💻 **Senior Software Engineer** at **Digital Daya Teknologi** – Building high-performance fraud detection systems to enhance security and trust across digital platforms.
 - 🧩 **Technical Solution Specialist** at **Gema Utama Cipta Innovasi** – Designing and implementing tailored technology solutions to meet client needs across various industries.
@@ -81,13 +82,13 @@ With a background in tech and a strong entrepreneurial spirit, I’m passionate 
 ![Laravel](https://img.shields.io/badge/logo-laravel-blue?logo=laravel)&nbsp;&nbsp;
 
 ## 🏆 GitHub Trophies
-
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndrianFauzi&theme=nord&column=9)](https://github.com/ryo-ma/github-profile-trophy)
----
+--->
 
 [![An image of @andrianfauzi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andrianfauzi)](https://holopin.io/@andrianfauzi)
 
 ---
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrianFauzi&card_width=1020)
 <!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=AndrianFauzi)](https://github.com/deepajarout)
