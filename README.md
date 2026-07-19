@@ -53,7 +53,6 @@ With a background in tech and a strong entrepreneurial spirit, I’m passionate 
 
 ### ⚡ Quick Facts
 
-- 🎓 Studying Computer Science (Online) @ BINUS  
 - 🧠 Loves deep talks on algorithms, architecture, and anime  
 - 🌱 Currently exploring product development for rural communities  
 - 😄 Pronouns: Programmer / He / Him
