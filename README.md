@@ -81,10 +81,11 @@ With a background in tech and a strong entrepreneurial spirit, I’m passionate 
 ![GitHub](https://img.shields.io/badge/logo-github-blue?logo=github)&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/logo-laravel-blue?logo=laravel)&nbsp;&nbsp;
 
-## 🏆 GitHub Trophies
 <!--
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=AndrianFauzi&theme=nord&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 --->
+![stats](https://github-readme-stats.vercel.app/api?username=AndrianFauzi&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
 
 [![An image of @andrianfauzi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/andrianfauzi)](https://holopin.io/@andrianfauzi)
 
